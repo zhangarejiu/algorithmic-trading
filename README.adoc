@@ -2,4 +2,4 @@
 
 An algorithmic trading module to automate strategies. This version is specifically made for Bitmex, but could be applied to other REST APIs too
 
-I worked on this a while back, is not time to share it and revisit a few things. The code might still be unstable. Needs a few revisions, and a proper doc
+I worked on this a while back, is now time to share it and revisit a few things. The code might still be unstable. Needs a few revisions, and a proper doc
